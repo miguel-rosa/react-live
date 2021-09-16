@@ -1,0 +1,17 @@
+.pessoa {
+  border-radius: 10px;
+  padding: 10px;
+  background: rgb(37, 37, 37);
+}
+
+.list,
+.text {
+  color: white;
+  font-size:20px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.list{
+  list-style-type: none;
+}
